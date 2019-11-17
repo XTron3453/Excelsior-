@@ -1,0 +1,36 @@
+#desktop_1	{
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: url("ExcelsiorLearn_Background 2.jpg");
+}
+
+#frame_1	{
+	position: absolute;
+	left: 421px;
+	right: 24px;
+	top: 256px;
+	bottom: 543px;
+
+	mix-blend-mode: normal;
+	filter: blur(4px);
+}
+
+#excel_learn	{
+	position: absolute;
+	width: 615px;
+	height: 161px;
+	left: 0px;
+	top: 89px;
+
+	font-family: Ropa Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	line-height: 161px;
+
+	/* identical to box height */
+
+	color: #FFFEFE
+}

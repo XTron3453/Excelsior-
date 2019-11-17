@@ -1,0 +1,203 @@
+#frame_1 {
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+}
+
+/* Android - 1 */
+#android_1 {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+
+	background: #FFFFFF;
+}
+
+/* Line 2 */
+#line_2 {
+	position: absolute;
+	width: 360px;
+	height: 0px;
+	left: 1px;
+	top: 162px;
+
+	border: 5px solid #F8FFFF;
+}
+
+/* Body */
+
+#body {
+	position: absolute;
+	left: 0px;
+	right: -1px;
+	top: 87px;
+	bottom: 0px;
+	
+	background: #92D7FD;
+	filter: blur(4px);
+}
+
+/* Line 3 */
+#line_3 {
+	position: absolute;
+	width: 360px;
+	height: 0px;
+	left: 1px;
+	top: 78px;
+	
+	border: 5px solid #C6FCF9;
+	transform: rotate(-0.16deg);
+}
+
+/* Search Results */
+#search_results {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 206px;
+	bottom: 33px;
+	
+	background: #FFFFFF;
+	filter: blur(4px);
+}	
+
+/* Copyrights and Shit */
+#copyrights {
+	position: absolute;
+	left: 1px;
+	right: 0px;
+	top: 620px;
+	bottom: 0px;
+	
+	background: #FFFFFF;
+	filter: blur(4px);
+}
+
+/* Search Bar */
+#search_bar {
+	position: absolute;
+	left: 11px;
+	right: 9px;
+	top: 132px;
+	bottom: 476px;
+}	
+
+
+/* Rectangle 2 */
+#rectangle_2 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #FFFBFB;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* search for the topic you want to learn */
+#search_bar_text {
+	position: absolute;
+	left: 3.53%;
+	right: 3.53%;
+	top: 24%;
+	bottom: 22%;
+	
+	font-family: Ubuntu Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	
+	color: rgba(0, 0, 0, 0.33);
+}
+
+
+/* Rectangle 3 */
+#rectangle_3 {
+	position: absolute;
+	left: 83.24%;
+	right: 3.53%;
+	top: 25%;
+	bottom: 21.88%;
+	
+	background: linear-gradient(180deg, #F2F0F0 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #A4A2A2 0%, rgba(164, 162, 162, 0) 100%);
+	border: 1px solid #AAA9A9;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+}
+
+/* Go */
+#go {
+	position: absolute;
+	left: 87.65%;
+	right: 7.65%;
+	top: 21.88%;
+	bottom: 21.88%;
+	
+	font-family: Ubuntu Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 18px;
+	
+	color: #5D5B5B;
+}
+
+
+/* Filters Applied */
+#filters_applied {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 178px;
+	bottom: 434px;
+	
+	background: #E6E3E3;
+}
+
+/* Navigation Bar */
+#navigation_bar {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 94px;
+	bottom: 517px;
+	
+	background: #3280F5;
+	filter: blur(4px);
+}
+
+/* Page Header */
+#page_header {
+	position: absolute;
+	left: 0px;
+	right: -1px;
+	top: 0px;
+	bottom: 563px;
+	
+	background: url(ExcelsiorLearn_Background 2.jpg), #C6DAFF;
+	filter: blur(4px);
+}
+
+/* ExcelLearn */
+#excel_learn {
+	position: absolute;
+	left: 36px;
+	right: 36px;
+	top: 16px;
+	bottom: 581px;
+	
+	font-family: Ropa Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 51px;
+	
+	color: #FFFFFF;
+	
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
